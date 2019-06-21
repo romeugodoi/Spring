@@ -1,3 +1,9 @@
+## Updated for 5.0
+
+To use the swift 5 version you have to point to my repo here, like so: -
+pod 'Spring', :git => 'https://github.com/MussaCharles/Spring.git'
+
+
 ## Updated for Swift 4.2
 Requires Xcode 10 and Swift 4.2.
 
