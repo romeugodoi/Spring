@@ -8,7 +8,12 @@ Drop in the Spring folder to your Xcode project (make sure to enable "Copy items
 Or via CocoaPods:
 ```
 use_frameworks!
-pod 'Spring', :git => 'https://github.com/MussaCharles/Spring.git'
+pod 'Spring', :git => 'https://github.com/romeugodoi/Spring.git'
+```
+
+Or via Swift Package Manager (SPM):
+```
+https://github.com/romeugodoi/Spring
 ```
 
 ## Usage with Storyboard
